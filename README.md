@@ -1,5 +1,5 @@
 
-![Profile banner](https://media.licdn.com/dms/image/D4D16AQG4b51wJt-aQw/profile-displaybackgroundimage-shrink_350_1400/0/1678733965687?e=1708560000&v=beta&t=iBxCFY3NelfXyq8NxmRx7Wj7Ev1JH2PL_SLxfW15OBw)
+![Profile banner](https://media.licdn.com/dms/image/D5616AQHhj74Z_5Fnsw/profile-displaybackgroundimage-shrink_350_1400/0/1703275874249?e=1708560000&v=beta&t=GoLtEslFxvmxtle7ARP8ZCHfCLyRfC8E7n-Y4YvEhZI)
 
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br> ProjexHub <br>
