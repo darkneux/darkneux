@@ -1,7 +1,7 @@
 
 ![Profile banner](https://media.licdn.com/dms/image/D5616AQFF2hXacwykFQ/profile-displaybackgroundimage-shrink_350_1400/0/1703315596552?e=1709164800&v=beta&t=xtlVsKyEB6dPyv7hYV3X_E_4WZSGSNDTUZRfJTE6aCw)
 
-# 💫 About Me:
+#  About Me:
 🔭 **I’m currently working on:**  <br> ProjexHub <br>
 <br>👯 **I’m looking to collaborate on**  <br>Django projects<br>
 <br>🌱 **I’m currently learning:**  <br>
@@ -14,12 +14,12 @@ Frontend :)
 <br>💬 **Ask me about:**  <br>Data Structure & Algo, Django, and any general software development questions.<br><br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/darkneux)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-tewary/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vivek_tiwarei/)
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -48,7 +48,18 @@ Frontend :)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Darkneux?ext=heatmap)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darkneux&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darkneux&theme=dark&hide_border=false)<br/>
+<h2 align="start">Github Status</h2>
+
+<div align="left" >
+  <div>
+    <a href="https://github.com/darkneux" title="Go to Source">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=darkneux&show_icons=true&theme=transparent&hide_border=true&hide=contribs&hide_rank=true" alt="zumrudu-ank" />
+    </a>
+    <a href="https://github.com/darkneux" title="Go to Source">
+      <img width=400 src="https://streak-stats.demolab.com/?user=darkneux&theme=transparent&hide_border=true" />
+    </a>
+  </div>
+</div>  
+
+
 
