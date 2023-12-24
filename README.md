@@ -42,7 +42,9 @@ Frontend :)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
-
+## Data Structures & Algorithms:
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Darkneux/)
+<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Darkneux?ext=heatmap)
 
 
