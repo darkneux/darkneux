@@ -47,19 +47,18 @@ Frontend :)
 <br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Darkneux?ext=heatmap)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=darkneux&theme=shadow-blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<h2 align="start">Github Status</h2>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkneux&theme=default&hide_border=true)](https://git.io/streak-stats)<br/>
 
-<div align="left" >
-  <div>
-    <a href="https://github.com/darkneux" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=darkneux&show_icons=true&theme=transparent&hide_border=true&hide=contribs&hide_rank=true" alt="zumrudu-ank" />
-    </a>
-    <a href="https://github.com/darkneux" title="Go to Source">
-      <img width=400 src="https://streak-stats.demolab.com/?user=darkneux&theme=transparent&hide_border=true" />
-    </a>
-  </div>
-</div>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkneux&theme=shadow-blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=darkneux&limit=5&theme=shadow-blue&combine_all_yearly_contributions=true)
+
+
+[![](https://komarev.com/ghpvc/?username=darkneux&&style=flat-square)](https://visitcount.itsvg.in)
 
 
 
