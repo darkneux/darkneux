@@ -46,17 +46,18 @@ Frontend :)
 ## Data Structures & Algorithms:
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Darkneux/)
 <br>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Darkneux?ext=heatmap)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darkneux&theme=shadow-blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=darkneux&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkneux&theme=default&hide_border=true)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkneux&theme=nightowl&hide_border=false)](https://git.io/streak-stats)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkneux&theme=shadow-blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkneux&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=darkneux&limit=5&theme=shadow-blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=darkneux&limit=5&theme=bear&combine_all_yearly_contributions=true)
 
 
 [![](https://komarev.com/ghpvc/?username=darkneux&&style=flat-square)](https://visitcount.itsvg.in)
