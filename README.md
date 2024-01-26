@@ -12,7 +12,7 @@ Frontend :)
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <br>
 
-<br>💬 **Ask me about:**  <br>Data Structure & Algo, Django, and any general software development questions.<br><br>
+<br>💬 **Ask me about :: **  <br>Data Structure & Algo, Django, and any general software development questions.<br><br>
 
 
 ##  Socials:
